@@ -1041,9 +1041,11 @@ Q26. Which technique is used to encourage exploration in reinforcement learning-
       C. Policy gradient methods (TRUE)
       D. Beam search
 
-    -  Explanation:
+    - Explanation:
 
-    In reinforcement learning (RL)-based Large Language Models (LLMs), encouraging exploration is crucial for discovering better strategies and improving performance. Policy gradient methods are a key technique used to achieve this. Here's a detailed explanation:
+      In reinforcement learning (RL)-based Large Language Models (LLMs), encouraging exploration is crucial for discovering better strategies and 
+      improving performance. Policy gradient methods are a key technique used to achieve this. 
+      Here's a detailed explanation:
 
     - Policy Gradient Methods
       # What Are Policy Gradient Methods?
@@ -1620,7 +1622,7 @@ Q38. How do Large Language Models (LLMs) contribute to natural language understa
 
         3. Question Answering  : LLMs can understand and respond to natural language questions by retrieving and synthesizing relevant information 
                                   from a given text or knowledge base, enhancing search engines, virtual assistants, and educational tools.
-                                  
+
         4. Named Entity Recognition (NER) :  Identifying and classifying entities within text to provide structured information about people, places, 
                                             dates, and other specific data points.
 
